@@ -18,7 +18,7 @@ A beautiful and efficient task and time tracker for the terminal, designed to ke
 - **Dashboard & Reporting:** A main screen that shows a summary of today's completed tasks, total time tracked per project, and a weekly activity graph.
 - **Themes:** Allow the user to select from a few different color schemes (e.g., Solarized, Dracula, Gruvbox).
 - **Custom Timers:** Allow configuration of timer lengths (work session, short break, long break).
-- **Keyboard First:** Ensure the entire application can be used without touching the mouse, with intuitive shortcuts.
+- **Keyboard First:** Ensure the entire application can be used without touching the mouse, with intuitive shortcuts and Vim mode for all text inputs.
 - **Data Export:** A feature to export task history for a given date range to CSV or JSON.
 - **CLI for Quick Start:** A simple command-line interface to quickly start a task without opening the full TUI, e.g., `tasky start "My new task" --project "Work"`.
 
